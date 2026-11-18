@@ -1,0 +1,14 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,599.66731456252,750.2562861198301,476.10537775791005
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,696.11228026002,887.6637197619599,543.1373589704
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,592.59924031858,743.83352508661,472.58389182038997
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,705.0602743072001,892.90128386313,551.35262133536
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,606.99698548583,759.34131343307,479.72177723003006
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,587.70371861629,740.2030972060801,469.94174706321
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,612.7232513512499,771.85269901346,483.06661346904
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,663.51710247529,839.15249378997,519.82774707389
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,622.9518187962,781.03242871367,489.48083035266
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,717.95035554895,901.73953193705,558.5854892437101
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,641.61860020293,806.73625840357,503.4128451048
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,711.0734916334,895.7523262009,559.5802646060799
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,683.42973309252,868.64948856033,534.03512280028

@@ -1,0 +1,235 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,913.48351431561,1108.1238160580801,720.42786571827
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,356.28735413763,442.64415225543996,287.77468020678
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,828.66322470825,1028.2143183508201,662.5048143980999
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,355.98846541393004,441.87358200962,287.47411573624004
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,829.1508726081901,1028.15605042816,665.5580693965701
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,1.8725979504599999,2.62495750232,1.30193507415
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,19.42551713815,23.62971619276,14.792656558970002
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,591.0502374732899,699.40923423699,487.83261561993
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,828.70460880908,1027.90923387411,664.56678531875
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,1.8079906915900001,2.5215889660400004,1.2801003654899998
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,19.08783237023,23.05524887373,14.74710357203
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,357.25032120634,442.99265630412003,286.75956964272
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,661.44113038883,808.3210432723399,526.9613998907
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,3.32931658399,3.84530624596,2.8672217623100003
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,27.06361080685,28.65589354138,25.41434548331
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,1.9289452588,2.71657780035,1.3353092957600001
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,19.74837948767,23.55715189815,15.17936381365
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,619.7675953312701,783.38798165281,501.19136549522995
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,584.41603441311,688.5758113140699,479.90319578979006
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,829.4850466745401,1028.62024498219,665.54943247084
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,356.78655000094,443.12316638358,287.07163613609004
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,357.44425123806,444.28568267392995,285.16203706846
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,3.25997005391,3.73973042282,2.76923888025
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,26.809486504139997,28.54983732416,25.25097982233
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,829.09990186705,1028.8397481058998,665.64614125414
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,907.99654294565,1108.45817685885,713.03502570555
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,1.4561274847999999,1.75848445905,1.22065748952
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,34.38086530272,36.795256348129996,31.42640943525
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,3.3800758844399996,3.9145459913100003,2.90458006465
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,27.54163635304,29.21014041522,25.86925569182
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,587.6703377175301,693.25777534646,483.16564825900997
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,3.19695211642,3.6604099728499997,2.73046174506
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,26.58541897774,28.3317632285,24.979398826669996
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,827.44606269993,1026.1278451860899,664.29871004638
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,1.1067633535699999,1.46991726112,0.8406249148
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,25.17038378276,32.34545141471,19.98574567453
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,357.14034787595,441.69265416033005,285.47029803288
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,357.34743063029,442.3909977107,285.22326332489996
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,920.20971807519,1110.98038643911,728.79766520623
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,2.07216314964,2.95302066486,1.3916707145
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,20.20280358116,24.446597810609997,15.792489203170001
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,824.84421654206,1022.40842678737,660.42884618017
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,3.25202985648,3.79588028817,2.78572724131
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,27.25521637146,28.86229204381,25.585614712410003
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,579.91937971452,692.42242772813,473.64420378718995
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,3.16562050174,3.7070588722499997,2.74040980269
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,25.920130377130004,27.40937752998,24.526167016520002
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,608.56845597929,762.9890883750201,491.11878309070005
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,1.99681754242,2.83379729495,1.34024008016
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,19.927102278459998,24.138474176229998,15.46490680105
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,1.45360083432,1.771322098,1.21564589985
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,34.31864728814,36.79181575572,31.21112281093
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,2.22412812702,3.33539310172,1.48376658531
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,20.85143155049,24.693479336099998,15.953266377310001
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,2.90850262904,3.8929253314800003,2.16205624378
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,2.9556319529399997,3.8916340892999997,2.18670663676
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,2.1577182653299998,3.22086822274,1.4706502315799999
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,20.69417526138,24.86678976578,15.871823519589999
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,3.20383147033,3.7637867873400004,2.78359666326
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,26.837005243540002,28.22657833363,25.438981152190003
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,930.00762669989,1119.3151289131301,740.73781099778
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2011,669.86586747972,818.2783373161501,533.3616097159801
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,3.35915488105,6.10098344607,2.28907583317
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,36.24168115661,41.881892074039996,31.01961471466
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,1.0891586573099998,1.43972333392,0.80862577657
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,25.58162492182,32.0547212915,20.653263760239998
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,2.83289096105,3.7732717598599996,2.10839918788
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,1.48412943708,1.78205067104,1.23654368228
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,34.46695174794,36.93187260691,31.61696625339
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,356.69368762227,440.85578607901004,287.07864051383
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,578.1946478165701,691.62765990112,471.24712445026
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,819.66527935907,1015.21956856714,654.89979028873
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,3.1250999108,3.6417495443399996,2.68112920002
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,25.85793977636,27.22500412031,24.517770885270004
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,356.89764569778,440.87583087243,287.3299084761
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2012,614.86488738321,776.03026724567,497.70663559468005
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,3.2426845594600002,6.3514802243399995,1.9894676707999999
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,36.01065362645,41.87829091165,31.004003931960003
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,822.00170054957,1018.4856700482701,657.24008495652
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,643.01219469998,786.62023019683,512.73999224563
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2013,651.28666860909,796.3666147496599,519.1641207724999
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,356.60777623779,441.33428650659,286.78570959249004
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,581.8519577308,690.90851279163,475.46342656948997
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,662.82831676309,809.64389162589,528.1946370302301
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,2.2829645707,3.42435972794,1.54081262134
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,21.22181269542,24.932820173879996,16.46667040938
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,640.2289853165,783.25920502362,510.54516447175
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,2.35539329916,3.4874433288,1.58944982692
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,21.61823021233,25.92914459728,16.889264392130002
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,602.21510631298,750.54097954601,485.23734564233
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,3.08368783945,3.5553132000499996,2.65536618442
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,24.920117536259998,26.258431486840003,23.53807736334
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,818.57846944366,1013.41874881578,653.7382234863601
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,2.7695588398499997,3.6178655850799997,2.03820922071
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,1.3500936936999999,1.62160169283,1.1558471048799999
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,32.533894547150005,35.08144785306,29.084338004259997
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,1.44340762728,1.74672084893,1.21661290611
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,34.23002809815,36.75141776369,31.03968064968
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,2.9239982265499997,3.9403101206800004,2.08921253884
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,2.82049005611,3.8250743947,2.03501038114
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,3.05068508299,4.13476545649,2.25011270871
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,1.403046505,1.6774782991400001,1.19859399316
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,33.13447340735,35.66049456343,29.830041714889997
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,0.97842590222,1.34062217893,0.70241480979
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,22.932014541319997,27.959347935249998,19.35266725072
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,3.0105815827,3.47131605099,2.60015824398
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,24.30486120586,25.53575426513,22.96334487995
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,826.5952000471999,1016.2603968349599,660.07328842963
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,357.57020155536003,445.49254206637005,288.19784818501
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,6.17471368964,8.33778972891,5.08205778604
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,580.5408319128201,695.25662973629,472.27326171598
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,2.4320958574,3.519141058,1.6440828568399999
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,21.94268144448,26.24763440323,17.1943415591
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,584.5592195865399,702.32280984237,478.54350135271
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,647.36592028143,790.9478968767999,516.76021063513
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,591.20731267267,733.16707894226,476.54584783865994
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2015,597.11686439379,741.07045341742,479.95841698964995
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,822.39237908931,1014.91798054037,657.22495090816
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,357.56226717625,445.48082252606,288.18788831004997
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,357.09182191587,443.98713024404,286.89901948281
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,814.8615978248499,1000.7345017621801,647.0679955985299
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,1.14748648874,1.383679041,0.9482880666200001
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,31.580533001310002,34.215503029400004,27.73955622348
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,579.1955838094899,690.40651421772,474.53881628118
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,3.11155343595,6.404799305819999,1.73667255018
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,34.542820035750005,39.62234907384,28.47370323298
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2014,926.3470098281899,1115.8864483423001,738.0404559728499
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,2.83192401223,3.26881309487,2.4335622034899997
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,23.24198378745,24.487520013530002,21.90461862184
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,2.43636001381,3.4520769273400003,1.6414797691099998
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,21.62364650025,26.52584296059,16.85793685604
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,578.5806783245899,690.74488131717,473.18950415164005
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,2.59484167833,3.7034662024000005,1.75100726311
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,22.69930864458,28.109412111039997,17.11087268367
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,2.68633512713,3.1478673724000004,2.29220585292
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,21.63490266891,22.92861614833,20.210565934269997
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,591.06006977885,717.55718655918,483.21184658303
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,578.2181108031799,693.8189348826099,472.77747553524
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,2.83136307168,3.33667364688,2.35991105593
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,22.43165171108,24.13712651164,20.57276061008
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,2.7380841791800004,4.07640673567,1.87290105824
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,23.498833937140002,29.716494948730002,17.26696716972
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,1.27574625641,1.5428813435100002,1.06900941547
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,32.19016250871,34.81808492545,28.604119154270002
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,3.75613960019,5.08199472894,2.7527705677900003
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,1.0378065789800002,1.3810510515699999,0.75140954573
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,25.0347823053,31.18360760529,20.09097007267
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,1.09808781929,1.32052927764,0.90321413671
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,31.02130925394,33.651598553899994,27.24513669168
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,6.00345322977,8.07977033895,5.01347641872
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,585.26728219384,697.63784356258,480.29498214120997
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,923.2304925719,1109.17758827495,735.18888944816
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,681.22278709384,832.6957053850699,541.83361849093
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2016,929.95272791638,1114.3439543739198,746.97287658397
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2018,573.16186930587,709.79751282046,462.70573549134
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,918.7824020537,1121.68592364949,730.63579493813
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,703.5015846329001,861.60215428917,558.3493957473701
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,582.66551468992,722.06305380514,469.26047619122005
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2017,927.17748992652,1105.46641172043,745.35969859489
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,919.67183492937,1115.96031521116,731.66859532762
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2021,551.3580059191601,678.38832435636,444.58617432903
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,700.35509967591,857.1055792364101,556.64732496367
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,705.1542827227299,864.9238333480899,558.8060419050701
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,1.11708332599,1.32365650532,0.91959229353
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,31.604865405890003,34.22784894096,28.118607824940003
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,3.0711295165999997,4.18770624337,2.25406626364
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,1.07001164518,1.4135452578099998,0.7788333969900001
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,25.46276063054,31.70654207318,20.61842075576
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.20977089252,8.22993462398,5.1458457076399995
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,3.0391360229699997,4.077963813959999,2.17946515581
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,697.13513383878,853.44257562387,553.46473807736
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,920.7541461069301,1143.7459881586399,730.40214301656
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,930.25272671319,1146.0543636920202,735.12411750628
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,557.9172622903301,685.91213370919,448.66380013777
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,515,Asthma,3,Rate,2020,918.05724372428,1124.6419618805899,727.40195567786
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2019,564.36165289143,696.88052556827,454.13202510866995
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2022,542.12108727613,667.15445440292,436.08557287352
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,2.96459500497,6.35343972536,1.5819138295300001
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,32.77695407681,37.760861329360004,26.75875427047
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,700.97836676458,855.0347964752999,559.40301406816
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,2.9420030004899997,6.394411610640001,1.53083453494
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,32.10379679533,37.050103638770004,26.57079669679
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,515,Asthma,3,Rate,2023,517.70082722944,633.64968695428,418.26125826785
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,3.33534799209,6.324601840710001,2.15530949636
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,36.58903323757,42.35783949103,31.59110296275
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,3.1037889620000003,6.73805422755,1.62634742201
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,33.74932612159,38.60673087787,28.09971796829
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,1.11322962164,1.32617091817,0.9170598357799999
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,30.995962179899998,33.5401524075,27.38196818446
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,3.25056857882,4.326247753950001,2.38206305277
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,1.20307498816,1.46299801024,1.00866084861
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,31.752240741300003,34.45251071037,27.969120877279998
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,3.0493130804199997,6.423205605670001,1.66088134823
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,33.96894931889,39.03930474427,28.186187410800002
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,3.16951021733,6.26278631842,1.87759906686
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,35.44946336073,40.8668651938,30.045849744279998
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,3.04741599863,6.38459921385,1.67429145127
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,33.86507969089,38.79083046358,27.74188959939
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,0.99908453925,1.3498625806,0.7258819181799999
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,23.50809192461,29.323518217360004,19.083880207900002
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,3.1633888953300002,6.308556846340001,1.8015743282199999
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,34.89816064213,40.19438934006,29.52022721878
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,3.0779549517500002,6.6038254705799995,1.63205790319
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,32.53149164747,37.809806429649996,26.87538034624
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,2.98253159823,6.4343441951500004,1.5747194638
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,32.92639049491,38.02543635598,27.196601482410003
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,3.4539463041199996,4.78859627727,2.39778329794
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,0.9406738053100001,1.31251667542,0.67572628898
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,22.17126816564,27.03346979965,18.770372882580002
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,3.56929773019,4.988202311029999,2.51290526781
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.26547750405,8.21602505995,5.18270083019
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.7843168789999995,8.64234677618,5.68425300987
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.1282979608299994,8.84581761276,6.03735544119
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,0.96997585474,1.29419467075,0.7027390705600001
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,23.106994901180002,27.829980210260004,19.19555907062
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,1.19152354194,1.39952993911,0.9883690149
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,32.5548313708,35.23659730087,28.723176164039998
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.40414401701,8.27851873635,5.35112105377
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,0.97915997639,1.32870381834,0.70404747547
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,23.08828025807,28.02580161941,19.408950592020002
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,1.0670907227700002,1.5271926176900001,0.76412461192
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,24.52909230847,29.823792497,20.513780993
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,1.03690722534,1.4892316117,0.73045481498
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,24.12273652184,29.985260176760004,20.67759621602
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,0.92982391089,1.32043258708,0.6583992655
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,21.72465197573,27.028012304029996,18.64729888585
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.48725694643,10.371705307020001,7.074506876410001
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.976646036099999,8.81681238064,5.89495776107
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.88740705948,9.54473607399,6.42856505737
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,8.01878335102,9.82545026656,6.33616902003
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.09281397361,8.72240927307,5.895026940739999
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.243943827230001,8.83614200915,5.95717092564
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,1.0286271820100001,1.50796290895,0.7176740714800001
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,23.51660518217,30.11818277646,18.68003671065

@@ -1,0 +1,14 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2012,1.61526917783,1.9867993812599998,1.3040436949
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2020,1.6269082676599997,2.05470737471,1.24478738558
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2023,1.8415042652700002,2.3453285037300002,1.35852929419
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2014,1.60386315487,1.9327930641299997,1.26075739203
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2011,1.6170477921400002,1.9725778766800002,1.31156009246
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2013,1.58196156531,1.93928647739,1.24501238174
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2018,1.7504982557300002,2.2526061486,1.35220136074
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2016,1.7196386877899998,2.13937337259,1.3259053413800002
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2015,1.64031278385,2.00017941888,1.28242859203
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2021,1.7825908457000001,2.23129420001,1.3503773106799999
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2019,1.66872038512,2.14588222637,1.2699373071
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2017,1.7757231118899999,2.2737825810400003,1.3820781785699998
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,423,Larynx cancer,3,Rate,2022,1.94414816505,2.5382661929699997,1.44327739168

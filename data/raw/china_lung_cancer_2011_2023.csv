@@ -1,0 +1,14 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,33.237331453239996,36.68527176408,28.53200339071
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2023,37.280052674050005,43.08758316852,31.8065711013
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,36.283047727319996,40.10925858753,31.01254001896
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,38.85753017814,44.03475318332,32.993908278570004
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2012,36.220389695929995,40.05704204397,31.400778212029998
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,37.056950562059995,41.60061779059,32.3830233586
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,36.03576575423,40.239009570579995,31.42716170765
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2011,37.10358619764,40.87521147574,32.17154077853
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,35.85326622268,39.960140295870005,31.593351989269998
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,37.64084909041,42.29459023993,32.58716943743
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,36.38106421938,40.6116713278,31.5505363476
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,38.54007377391,43.033710877189996,33.842984961919996
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,34.67473214793,38.59664543152,29.77737870322
